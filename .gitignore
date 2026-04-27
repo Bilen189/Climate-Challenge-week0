@@ -5,9 +5,7 @@ __pycache__/
 # Virtual Environment
 venv/
 
-# Data
-data/
-*.csv
+
 
 # Jupyter
 .ipynb_checkpoints/
