@@ -19,3 +19,12 @@ jupyter notebook
 
 ## CI
 GitHub Actions runs on push to main branch.
+
+## Streamlit Dashboard
+Run locally:
+```
+streamlit run app/main.py
+```
+Filters: country (multi-select), year range slider, variable selector.
+Deployed on Streamlit Community Cloud.
+
